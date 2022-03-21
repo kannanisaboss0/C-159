@@ -1,0 +1,11 @@
+Model Information:
+* title:	[WR] Boa
+* source:	https://sketchfab.com/3d-models/wr-boa-68f602fdce944664bbba24cadf2dd4f1
+* author:	>corrupted ogre (https://sketchfab.com/corruptedogre)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "[WR] Boa" (https://sketchfab.com/3d-models/wr-boa-68f602fdce944664bbba24cadf2dd4f1) by >corrupted ogre (https://sketchfab.com/corruptedogre) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
